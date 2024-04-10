@@ -1,0 +1,16 @@
+
+
+.para {
+    color: red;
+}
+
+.bluey {
+    color: blue;
+}
+
+.borderDiv {
+    border: 6px solid black;
+    border-radius: 20px;
+    background-color: aqua;
+}
+
